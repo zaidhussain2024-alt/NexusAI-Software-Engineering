@@ -111,7 +111,7 @@ npm run start
 
 ## Project Links
 
-- **GitHub Repository:** https://github.com/zaidhussain2024-alt/web_programming_project
+- **GitHub Repository:** https://github.com/zaidhussain2024-alt/NexusAI-Software-Engineering
 - **Live Application:** https://software-zaid-1236-project-alpha.vercel.app
 
 ## Project Information
